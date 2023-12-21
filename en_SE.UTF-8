@@ -57,6 +57,7 @@ category  "i18n:2012";LC_PAPER
 category  "i18n:2012";LC_NAME
 category  "i18n:2012";LC_ADDRESS
 category  "i18n:2012";LC_TELEPHONE
+category  "i18n:2012";LC_MEASUREMENT
 END LC_IDENTIFICATION
 
 LC_CTYPE
