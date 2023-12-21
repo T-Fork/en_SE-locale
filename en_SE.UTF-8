@@ -1,6 +1,7 @@
 escape_char /
 comment_char %
 
+% https://forums.gentoo.org/viewtopic-t-1097578-start-0.html
 % English language locale for Sweden
 % Source: Datorföreningen Stacken, Kungliga Tekniska högskolan
 % Address: Datorföreningen Stacken, c/o NADA, KTH, 100 44 Stockholm, Sweden
